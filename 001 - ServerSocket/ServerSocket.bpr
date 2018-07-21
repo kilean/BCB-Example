@@ -86,13 +86,11 @@ Comments=
 [HistoryLists\hlIncludePath]
 Count=3
 Item0=C:\Program Files (x86)\Borland\CBuilder6\Bin;$(BCB)\include;$(BCB)\include\vcl
-Item1=C:\Program Files (x86)\Borland\CBuilder6\Bin;D:\William\Program\Hello Socket in BCB;$(BCB)\include;$(BCB)\include\vcl
 Item2=$(BCB)\include;$(BCB)\include\vcl
 
 [HistoryLists\hlLibraryPath]
 Count=3
 Item0=C:\Program Files (x86)\Borland\CBuilder6\Bin;$(BCB)\lib\obj;$(BCB)\lib
-Item1=C:\Program Files (x86)\Borland\CBuilder6\Bin;D:\William\Program\Hello Socket in BCB;$(BCB)\lib\obj;$(BCB)\lib
 Item2=$(BCB)\lib\obj;$(BCB)\lib
 
 [HistoryLists\hlDebugSourcePath]
